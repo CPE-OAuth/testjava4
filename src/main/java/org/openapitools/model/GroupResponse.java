@@ -12,7 +12,7 @@ import javax.validation.constraints.*;
 /**
  * GroupResponse
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2019-08-22T02:49:04.527Z[UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2019-08-22T02:56:29.222Z[UTC]")
 
 public class GroupResponse   {
   @JsonProperty("group_id")

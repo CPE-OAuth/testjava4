@@ -12,7 +12,7 @@ import javax.validation.constraints.*;
 /**
  * ModelApiResponse
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2019-08-22T02:49:08.647Z[UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2019-08-22T02:56:33.948Z[UTC]")
 
 public class ModelApiResponse   {
   @JsonProperty("code")

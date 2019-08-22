@@ -13,7 +13,7 @@ import javax.validation.constraints.*;
 /**
  * InlineObject
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2019-08-22T02:49:04.527Z[UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2019-08-22T02:56:29.222Z[UTC]")
 
 public class InlineObject   {
   @JsonProperty("parameters")
